@@ -52,11 +52,6 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 ---
 
-## 🎥 Demo
-
-*Coming soon — add a GIF or screen recording here!*
-
----
 
 ## 🧪 How to Run
 
